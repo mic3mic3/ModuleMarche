@@ -1,38 +1,9 @@
-﻿Build started 2015-03-26 13:53:20.
+﻿Build started 2015-03-26 13:59:42.
      1>Project "C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\ModuleMarche\ModuleMarche.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Acheteur.cpp Affichage.cpp Article.cpp Bijou.cpp Client.cpp ClientApp.cpp Compte.cpp Divers.cpp Employe.cpp MarcheAuxPuces.cpp Superclient.cpp Vendeur.cpp Voiture.cpp
-         Skipping... (no relevant changes detected)
-         Voiture.cpp
-         Vendeur.cpp
-         Superclient.cpp
-         MarcheAuxPuces.cpp
-         Employe.cpp
-         Divers.cpp
-         Compte.cpp
-         ClientApp.cpp
-         Client.cpp
-         Bijou.cpp
-         Article.cpp
-         Affichage.cpp
-         Acheteur.cpp
-       Link:
-         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\Debug\ModuleMarche.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\Debug\ModuleMarche.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\Debug\ModuleMarche.lib" /MACHINE:X86 Debug\Acheteur.obj
-         Debug\Affichage.obj
-         Debug\Article.obj
-         Debug\Bijou.obj
-         Debug\Client.obj
-         Debug\ClientApp.obj
-         Debug\Compte.obj
-         Debug\Divers.obj
-         Debug\Employe.obj
-         Debug\MarcheAuxPuces.obj
-         Debug\Superclient.obj
-         Debug\Vendeur.obj
-         Debug\Voiture.obj
+     1>Link:
          ModuleMarche.vcxproj -> C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\Debug\ModuleMarche.exe
      1>Done Building Project "C:\Users\Michaël\Desktop\Poo\Projet équipe - Github\ModuleMarche\ModuleMarche\ModuleMarche.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.04
+Time Elapsed 00:00:00.53
