@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+*.suo
+Debug/ModuleMarche.ilk
+*.pdb
+*.sdf
+*.log
+*.idb
